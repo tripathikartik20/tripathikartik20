@@ -26,7 +26,7 @@
 # ⚔️ CORE EXPERTISE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,js,nodejs,aws,linux,git,Cyber Security" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,js,nodejs,aws,linux,git" />
 </p>
 
 ---
