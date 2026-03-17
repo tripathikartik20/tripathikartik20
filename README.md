@@ -26,7 +26,7 @@
 # ⚔️ CORE EXPERTISE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,react,nodejs,aws,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,js,nodejs,aws,linux,git,Cyber Security" />
 </p>
 
 ---
@@ -75,10 +75,10 @@
 # 🌐 CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/kartiktripathi-/">
     <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kartiktripathi.1000@gmail.com">
     <img src="https://img.shields.io/badge/Email-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
